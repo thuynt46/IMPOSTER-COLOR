@@ -2,6 +2,10 @@
 
 Imposter Color Game is a fun and interactive game that challenges your visual perception. The goal is to identify the one tile with a slightly different color as the grid size and difficulty increase.
 
+Deployed: https://vercel.com/thuynt46s-projects/imposter-color
+
+![image](https://github.com/user-attachments/assets/bb93d216-451c-4b74-84f0-524d138ec647)
+
 ## Features
 - Progressive levels with increasing difficulty.
 - High score tracking using local storage.
